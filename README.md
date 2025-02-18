@@ -114,7 +114,5 @@ We analyze the distribution of states in the dataset.
 # Conclusion
 In conclusion, our data analysis of sales data has provided valuable insights that can guide decision-making across various aspects of the business. These insights include the identification of peak sales months, best-selling products, top revenue-generating cities, and more. the business can make informed decisions to optimize operations, enhance marketing efforts, and maximize revenue. Continued analysis and monitoring of sales data will be crucial for adapting to changing market dynamics and maintaining a competitive edge.
 
-## Contact
 
-- **Mohamed Ibrahim** [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/mohamed-ibrahim-513531202/)
 
